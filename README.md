@@ -13,10 +13,10 @@ For more information can be found [here](https://www.rieger.uni-saarland.de/home
 
 ## Building
 
-* Bullet
-*Eigen 3
-* g++ > 4
+* Eigen 3
 * Open MPI
+* g++ > 4
+
 
 
 
