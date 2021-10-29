@@ -10,12 +10,21 @@ For more information can be found [here](https://www.rieger.uni-saarland.de/home
 ).
 
 
-
 # Building
 
 * Eigen 3
 * Open MPI
 * g++ > 4
+
+## Successfully built on
+
+* - 4.1.7-hardened-r1-ARCH
+* 5.8.14-arch1-1
+
+## Build process
+
+CMake is our build system. You most likely need to configure the build according to your system specifics. 
+
 
 
 
