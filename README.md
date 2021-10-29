@@ -13,7 +13,7 @@ For more information can be found [here](https://www.rieger.uni-saarland.de/home
 
 ## Building
 
-Markup : * Bullet list
+Markup : * Bullet
 *Eigen 3
 * g++ > 4
 * Open MPI
