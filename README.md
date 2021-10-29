@@ -8,6 +8,12 @@ We publish it here to foster good scientific practices, i.e. to facilitate repro
 
 For more information see https://www.rieger.uni-saarland.de/homepage/research/biological_physics/research_publications/T_Cell_modelling.html
 
+Building
+
+*Eigen 3
+* g++ > 4
+* Open MPI
+
 
 
 
