@@ -10,9 +10,9 @@ For more information see https://www.rieger.uni-saarland.de/homepage/research/bi
 
 Building
 
-**Eigen 3
-* g++ > 4
-* Open MPI
++*Eigen 3
++* g++ > 4
++* Open MPI
 
 
 
