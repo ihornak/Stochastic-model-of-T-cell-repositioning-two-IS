@@ -13,9 +13,10 @@ For more information can be found [here](https://www.rieger.uni-saarland.de/home
 
 ## Building
 
-+*Eigen 3
-+* g++ > 4
-+* Open MPI
+Markup : * Bullet list
+*Eigen 3
+* g++ > 4
+* Open MPI
 
 
 
