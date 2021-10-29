@@ -6,7 +6,10 @@ This is the software implementing the models used by the Group of Prof. Heiko Ri
 
 We publish it here to foster good scientific practices, i.e. to facilitate reproduction of our work by interested parties.
 
-For more information see https://www.rieger.uni-saarland.de/homepage/research/biological_physics/research_publications/T_Cell_modelling.html
+For more information can be found [here](https://www.rieger.uni-saarland.de/homepage/research/biological_physics/research_publications/T_Cell_modelling.html
+).
+
+
 
 ## Building
 
