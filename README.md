@@ -30,8 +30,10 @@ CMake is our build system. You most likely need to configure the build according
 \$ make <br />
 
 
+## Details
 
+### MPI
 
-
+The MPI is NOT required and the numerical results can be collected(more slowly) without it. When simulating only one process to visualize the repositioning, MPI is unnecessary.
 
 
