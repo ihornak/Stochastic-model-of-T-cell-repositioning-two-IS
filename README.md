@@ -25,9 +25,9 @@ For more information can be found [here](https://www.rieger.uni-saarland.de/home
 
 CMake is our build system. You most likely need to configure the build according to your system specifics. Basic can be done by placing both folders in the build directory.
 
-\$ cd build_directory
-\$ cmake two_IS_source_code/ -DCMAKE_BUILD_TYPE="" . 
-\$ make
+\$ cd build_directory__
+\$ cmake two_IS_source_code/ -DCMAKE_BUILD_TYPE="" . __
+\$ make __
 
 
 
