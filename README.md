@@ -1,6 +1,6 @@
 # Stochastic-model-of-T-cell-repositioning
 
-## Introduction
+# Introduction
 
 This is the software implementing the models used by the Group of Prof. Heiko Rieger at Saarland University to study the T Cell repolarization during target elimination.
 
@@ -11,7 +11,7 @@ For more information can be found [here](https://www.rieger.uni-saarland.de/home
 
 
 
-## Building
+# Building
 
 * Eigen 3
 * Open MPI
