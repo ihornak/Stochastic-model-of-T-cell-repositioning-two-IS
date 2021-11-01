@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is the software implementing the models used by the Group of Prof. Heiko Rieger at Saarland University to study the T Cell repolarization during target elimination.
+This is the software implementing the models used by the Group of Prof. Heiko Rieger at Saarland University to study the T Cell repolarization during target elimination when two IS are established.
 
 We publish it here to foster good scientific practices, i.e. to facilitate reproduction of our work by interested parties.
 
