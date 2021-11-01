@@ -23,7 +23,7 @@ For more information can be found [here](https://www.rieger.uni-saarland.de/home
 
 ## Build process
 
-CMake is our build system. You most likely need to configure the build according to your system specifics. Basic can be done by placing both folders in the build directory.
+CMake is our build system. You most likely need to configure the build according to your system specifics. Basic build can be done by placing both folders in the build directory.
 
 \$ cd build_directory <br />
 \$ cmake two_IS_source_code/ -DCMAKE_BUILD_TYPE="" . <br />
@@ -36,4 +36,10 @@ CMake is our build system. You most likely need to configure the build according
 
 The MPI is NOT required and the numerical results can be collected(more slowly) without it. When simulating only one process to visualize the repositioning, MPI is unnecessary.
 
+## Visualization
 
+Simulation produces output files into the folder picturesVideos/textFiles. To make a movie 
+
+
+\$ cd picturesVideos <br />
+\$ sh Make_Movie.sh <br />
